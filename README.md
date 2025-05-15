@@ -1,6 +1,8 @@
 # EuroSAT 衛星影像分類專案
   (由於訓練出來的model過大無法放入github 故放在google drive中)
 
+  google drive: https://drive.google.com/drive/folders/14ImjT7FN3tl2OCSoveXeDnyiehO6kQ24?usp=sharing
+
   M_0.8_0.1_0.1.zip (檔案放在壓縮檔內)
   
   檔案名稱解釋:
