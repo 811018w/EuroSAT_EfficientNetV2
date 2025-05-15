@@ -4,10 +4,15 @@
   M_0.7_0.15_0.15.zip
   
   檔案名稱解釋:
+  
     m-> 中型模型 
+    
     0.7->train data ratio 
+    
     first 0.15->validation data ratio
+    
     second 0.15->test data ratio 
+    
 
   M_0.7_0.15_0.15 with NO EARLYSTOP
   
