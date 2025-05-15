@@ -1,5 +1,6 @@
 # README
 (由於訓練出來的model過大無法放入github 故放在eeclass中繳交)
+
   M_0.7_0.15_0.15.zip
   
   檔案名稱解釋:
