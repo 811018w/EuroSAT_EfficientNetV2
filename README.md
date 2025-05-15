@@ -1,5 +1,5 @@
 # README
-
+(由於訓練出來的model過大無法放入github 故放在eeclass中繳交)
 ## 專案名稱
 
 基於 EfficientNet‑V2 微調之 EuroSAT 衛星影像分類模型
