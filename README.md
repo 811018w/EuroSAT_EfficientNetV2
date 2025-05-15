@@ -1,4 +1,4 @@
-![accuracy_curve](https://github.com/user-attachments/assets/685c1db5-c3a3-48cb-9b6b-61adbcbc4bb0)# README
+# README
 (由於訓練出來的model過大無法放入github 故放在eeclass中繳交)
   M_0.7_0.15_0.15.zip
   
