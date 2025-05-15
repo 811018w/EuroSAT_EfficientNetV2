@@ -1,5 +1,15 @@
-# README
+![accuracy_curve](https://github.com/user-attachments/assets/685c1db5-c3a3-48cb-9b6b-61adbcbc4bb0)# README
 (由於訓練出來的model過大無法放入github 故放在eeclass中繳交)
+  M_0.7_0.15_0.15.zip
+  
+  檔案名稱解釋:
+    m-> 中型模型 
+    0.7->train data ratio 
+    first 0.15->validation data ratio
+    second 0.15->test data ratio 
+
+  M_0.7_0.15_0.15 with NO EARLYSTOP
+  
 ## 專案名稱
 
 基於 EfficientNet‑V2 微調之 EuroSAT 衛星影像分類模型
