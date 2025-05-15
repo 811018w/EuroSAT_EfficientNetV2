@@ -1,5 +1,5 @@
 # EuroSAT 衛星影像分類專案
-  (由於訓練出來的model過大無法放入github 故放在eeclass中繳交)
+  (由於訓練出來的model過大無法放入github 故放在google drive中)
 
   M_0.8_0.1_0.1.zip (檔案放在壓縮檔內)
   
