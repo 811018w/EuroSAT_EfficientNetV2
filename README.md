@@ -14,7 +14,7 @@
     second 0.15->test data ratio 
     
 
-  M_0.7_0.15_0.15 with NO EARLYSTOP
+  M_0.7_0.15_0.15 with NO EARLYSTOP.zip
   
 ## 專案名稱
 
